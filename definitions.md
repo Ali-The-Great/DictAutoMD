@@ -60,3 +60,7 @@
 
 **constitution**: The act, or process of setting something up, or establishing something; the composition or structure of such a thing; its makeup.
 
+**parochial**: Pertaining to a parish.
+
+**parish**: In the Anglican, Eastern Orthodox, Lutheran and Roman Catholic Church, an administrative part of a diocese that has its own church.
+
