@@ -64,3 +64,43 @@
 
 **parish**: In the Anglican, Eastern Orthodox, Lutheran and Roman Catholic Church, an administrative part of a diocese that has its own church.
 
+**succinctly**: In a succinct manner, concisely.
+
+**precepts**: A rule or principle, especially one governing personal conduct.
+
+**patrician**: (antiquity) A member of any of the families constituting the populus Romanus, or body of Roman citizens, before the development of the plebeian order; later, one who, by right of birth or by special privilege conferred, belonged to the senior class of Romans, who, with certain property, had by right a seat in the Roman Senate.
+
+**senate**: In some bicameral legislative systems, the upper house or chamber.
+
+**bicameral**: Being or having a system with two, often unequal, chambers or compartments; of, signifying, relating to, or being the product of such a two-chambered system.
+
+**legislative**: That branch of government which is responsible for making, or having the power to make, a law or laws.
+
+**circuitous**: Not direct or to the point.
+
+**magnanimously**: Definition not found.
+
+**beset**: To surround or hem in.
+
+**abate**: Abatement.
+
+**abatement**: The act of abating, or the state of being abated; a lessening, diminution, or reduction; a moderation; removal or putting an end to; the suppression of.
+
+**legion**: The major unit or division of the Roman army, usually comprising 3000 to 6000 infantry soldiers and 100 to 200 cavalry troops.
+
+**spurned**: To reject disdainfully; contemn; scorn.
+
+**endowed**: To provide with a dower or a dowry.
+
+**rhetoric**: The art of using language, especially public speaking, as a means to persuade.
+
+**tract**: An area or expanse.
+
+**platonism**: Alternative letter-case form of Platonism
+
+**genuflecting**: To bend the knee, as in servitude.
+
+**effusion**: A liquid outpouring.
+
+**scrupulous**: Exactly and carefully conducted.
+
